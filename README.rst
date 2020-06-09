@@ -9,7 +9,7 @@ Requirements
 ============
 The **Hello Crypto** library has the following dependencies:
 
-- Python 3.7+
+- Python 3.8+
 - Sphinx 2.2+
 
 Installation
