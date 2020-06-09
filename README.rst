@@ -17,4 +17,4 @@ Installation
 
 To download the Hello Crypto library from Github, do::
 
-    $ git clone https://github.com/janFiOpelito/hello_crypto.git
+    $ git clone https://github.com/janFiOpelito/hello-crypto.git
