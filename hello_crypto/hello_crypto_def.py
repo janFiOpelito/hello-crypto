@@ -29,4 +29,4 @@ def add_crypto(a,b):
     :return: a+b
     :rtype: int
     """
-    return a+b
+    return a-b
